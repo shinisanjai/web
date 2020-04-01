@@ -1,0 +1,76 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body { background-size: cover;
+    background-repeat: no-repeat;
+
+}
+header{
+    background-color:black;
+    height: 5em;
+
+}
+img{
+    margin-left: 10%;
+    margin-top: 14px;
+}
+.head-tag {
+    float: right;
+    margin-top: 33px;
+    margin-right: 55px;
+    }
+.head-tag a{
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    
+    color: white;
+    border: 1px solid white;
+    padding: 8px;
+    margin-right: 8px;
+}
+.head-tag a:hover{
+    background-color: teal;
+    color: black;
+    transition: 0.5 ease-in-out;
+    
+}/* body portion */
+h1 
+{
+    margin-top:3% ;
+    text-align: center;
+   color:rgb(7, 82, 7);
+}
+
+/* district body */
+ .dist p{
+    float: left;
+    margin-top: 3%;
+    margin-left: 4em;
+} 
+
+.container{
+        margin-top: 27%;
+}
+
+.para{
+    border: 3px solid darkblue;
+    width: 27%;
+    margin-left: 10px;
+    float: left;
+    height: 25em;
+    padding: 10px;
+    background-color: whitesmoke;
+
+}
+footer {
+    background-color: black;
+    
+    height: 2em;
+    margin-top: 60%;
+}
+footer h4{
+    text-align: center;
+    content: white ;
+}

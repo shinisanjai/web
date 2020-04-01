@@ -1,0 +1,38 @@
+ 
+ body{
+     margin: 0;
+     padding: 0;
+
+ }
+ /* form */
+ .login{
+    border:2px solid dimgray;
+    background-color: whitesmoke;
+   height: 23em;
+   width: 25em;
+   margin-top: 10%;
+    float:right;
+    margin-right: 70px;
+    content: center;
+    text-align: center;
+    
+    
+}
+.login #password{
+    margin-top: 5px;
+}
+.login h2{text-align: center ;
+margin-top: 25px;
+}
+.login #loginbutton{
+    
+    align-items: center;
+    width: 50%;
+    height: 1.8em;
+    color:black;
+    float:right;
+    margin-right: 80px;
+     background-color: dodgerblue; 
+    border: 1px solid dodgerblue;
+
+}
